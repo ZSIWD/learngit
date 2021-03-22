@@ -1,2 +1,4 @@
 这是我的第一个文件（被改动过）（zhangshuai）
 将来试验git是否成功
+once a time
+sdfsdf
